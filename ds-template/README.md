@@ -7,12 +7,15 @@
 3. Run the Dev Containers: Open Folder in Container... command from the Command Palette or Quick Actions Status Bar
 4. Select the `Dockerfile.dev` file
 5. Wait until the development container is running
-6. Have fun developing!
+6. Look here for more information on [Data Version Control (DVC)](https://dvc.org/doc)
+7. Have fun developing!
 
 # Structure
 
 ```
 ├── README.md <- The top-level README for developers using this project.
+│
+├── .dvc <- Data version control
 │
 ├── data
 │ ├── interim <- Intermediate data that has been transformed.
