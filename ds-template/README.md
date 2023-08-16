@@ -45,4 +45,6 @@
 │ │
 │ └── visualization <- Scripts to create exploratory and results oriented visualizations
 │ │ └── generate_visualizations.py
+│
+├── run_pipelines.py <- The main file for running data, feature, and model pipelines.
 ```
