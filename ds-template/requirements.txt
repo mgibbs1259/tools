@@ -1,7 +1,0 @@
-dvc[all]
-matplotlib
-numpy
-pandas
-plotly
-seaborn
-scikit-learn
